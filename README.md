@@ -2,7 +2,7 @@
 
 Currently working as iOS Software Engineer at [Tokopedia](https://github.com/tokopedia). I always love and crave to learn new things, especially something sounds fun and challenging at a same time.
 
-I do most of my code with Swift, and i believe Swift is the best language in the world.Currently exploring Swift for scripting, and backend stuff.
+I do most of my code with Swift, and i do believe Swift is the best language in the world.Currently exploring Swift for scripting, and backend stuff.
 
 Very Greatful WWDC20 Swift Student Challenge Winner.
 
