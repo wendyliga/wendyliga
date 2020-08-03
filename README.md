@@ -27,7 +27,7 @@ ___
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Add Compiled Frameworks in Swift Package Manager](https://medium.com/better-programming/how-to-add-compiled-frameworks-in-swift-package-manager-f0cdbde84fc7)
-- [How to Add Resources in Swift Package Manager](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-https://medium.com/better-programming/how-to-add-resources-in-swift-package-manager-c437d44ec593)
+- [How to Add Resources in Swift Package Manager](https://medium.com/better-programming/how-to-add-resources-in-swift-package-manager-c437d44ec593)
 - [Create GIFs Using Your Xcode Simulator With Mimiq](https://medium.com/better-programming/create-gifs-using-your-xcode-simulator-with-mimiq-581607a6a776)
 - [Write an Efficient Code with Closured](https://medium.com/flawless-app-stories/write-efficient-code-with-closure-e5175e747f54)
 - [Things Model can do more for you](https://byrslf.co/model-is-more-than-just-data-structure-b5d95cfe505b)
