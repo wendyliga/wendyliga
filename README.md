@@ -35,10 +35,13 @@ ___
 <!-- BLOG-POST-LIST:END -->
 ___
 <p align="left">
-  <img alt="Wendy Liga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wendyliga&show_icons=true&hide_border=true&count_private=true" />
-  <img alt="Wendy Liga's Top Github Language Contribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendyliga&layout=compact" />
+  <a href="https://github.com/wendyliga">
+     <img alt="Wendy Liga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wendyliga&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/wendyliga/">
+     <img alt="Wendy Liga's Top Github Language Contribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendyliga&layout=compact" />
+  </a>
 </p>
-
 
 [website]: https://wendyliga.com
 [twitter]: https://twitter.com/wendyliga
