@@ -39,7 +39,7 @@ ___
      <img alt="Wendy Liga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wendyliga&show_icons=true&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/wendyliga/">
-     <img alt="Wendy Liga's Top Github Language Contribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendyliga&layout=compact" />
+     <img alt="Wendy Liga's Top Github Language Contribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendyliga&hide_border=true&layout=compact" />
   </a>
 </p>
 
