@@ -34,7 +34,11 @@ ___
 - [Say Goodbye to “Index out of range” — Swift](https://medium.com/flawless-app-stories/say-goodbye-to-index-out-of-range-swift-eca7c4c7b6ca)
 <!-- BLOG-POST-LIST:END -->
 ___
-<img align="left" alt="Wendy Liga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wendyliga&show_icons=true&hide_border=true" />
+<p align="center">
+  <img alt="Wendy Liga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wendyliga&show_icons=true&hide_border=true&count_private=true" />
+  <img alt="Wendy Liga's Top Github Language Contribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendyliga&layout=compact" />
+</p>
+
 
 [website]: https://wendyliga.com
 [twitter]: https://twitter.com/wendyliga
