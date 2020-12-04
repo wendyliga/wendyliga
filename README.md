@@ -3,7 +3,7 @@ ___
 
 - 👨‍💻 iOS Software Engineer at [Tokopedia](https://github.com/tokopedia)
 - 🌱 Learning Swift and Everything that sounds fun
-- 🍎 WWDC20 Swift Student Challenge Winner
+- 🍎 WWDC20 [Swift Student Challenge Winner](https://www.wwdcscholars.com/s/130CBC3A-A4A0-48FB-AA81-674A41E5C309)
 - ☄️ Love to play guitar, basketball and swimming
 ___
 
