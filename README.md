@@ -15,6 +15,8 @@ ___
 
 [<img src="https://user-images.githubusercontent.com/16457495/78473788-84b7cc80-776d-11ea-8c44-5d6c8e46f2cb.png" width="84" height="32" align="center"> **Mimiq**](https://github.com/wendyliga/mimiq) — Xcode Simulator GIF Recorder 
 
+[<img src="https://github.com/wendyliga/wrangler/blob/main/assets/wrangle.png" width="32" height="32" align="center"> **wrangler**](https://github.com/wendyliga/wrangler) - ArchiSteamFarm Helper
+
 ___
 ### Connect with me
 
