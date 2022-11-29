@@ -2,9 +2,9 @@
 ___
 
 - 👨‍💻 iOS Software Engineer at [Tokopedia](https://github.com/tokopedia)
-- 🌱 Learning Swift and Everything that sounds fun
+- 💚 Maintain Bazel for iOS Tokopedia
 - 🍎 WWDC20 [Swift Student Challenge Winner](https://www.wwdcscholars.com/s/130CBC3A-A4A0-48FB-AA81-674A41E5C309)
-- ☄️ Love to play guitar, basketball and swimming
+
 ___
 
 ### Things I work on
